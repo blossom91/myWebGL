@@ -1,3 +1,6 @@
+# myWebGL
+
+
 ### 用法
 
 ```shell
@@ -42,4 +45,3 @@ utils.js 工具函数集合
 vector.js Vector 表示三维向量的类,描述模型点位置
 
 vertex.js Vertex 类 表示一个坐标(Vector)与一个颜色(Color) u v 描述贴图坐标位置 w 帮助获取转换前贴图位置
-# myWebGL
